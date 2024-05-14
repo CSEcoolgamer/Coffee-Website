@@ -1,11 +1,33 @@
 # Coffee-Website
-#Introduction - This repository contains the code for a coffee website, built using HTML, CSS and JAVASCRIPT.
 
-This website is a simple yet elegant website that can be used to showcase coffee products, attract new customers, and increase your online presence.
+## Introduction
 
-A simple coffee website - But a new thing we added i.e,(Book A Table).
+Welcome to the Coffee-Website repository! This project features a captivating coffee website crafted with HTML, CSS, and JavaScript. It serves as an elegant platform to showcase coffee products, attract new customers, and boost your online presence.
 
-This website is going to change your mind as nowadays people are getting busy 
-So, using this website they can easily book a table whenever they got time for their love ones.
+### New Feature: Book A Table
 
-Work in progress..........
+In addition to showcasing coffee products, this website introduces a new feature - "Book A Table". In today's busy world, people often struggle to find time for their loved ones. With this feature, users can easily reserve a table, ensuring a delightful coffee experience with their companions.
+
+## Features
+
+- Simple and elegant design
+- Showcase coffee products
+- Attract new customers
+- Increase online presence
+- Book a table feature (Work in progress)
+
+## Usage
+
+1. Clone the repository.
+2. Open the index.html file in your web browser.
+3. Explore the website and book a table for a delightful coffee experience!
+
+## Future Enhancements
+
+- Complete the "Book A Table" feature
+- Improve user interface and experience
+- Add more interactive elements
+- Enhance responsiveness for various devices
+
+
+
